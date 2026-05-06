@@ -6,7 +6,7 @@
 
 // --- CONFIGURAÇÕES DE REDE ---
 const char* ssid = "dell vale eh suco";// Wifi
-const char* password = "g0g0g0dzilla";// senha
+const char* password = "x";// senha
 const char* mqtt_server = "test.mosquitto.org"; // Broker
 
 // --- OBJETOS ---
